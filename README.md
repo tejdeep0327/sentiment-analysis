@@ -1,4 +1,4 @@
-# Sentiment Analysis Project (MITS Internship)
+# Sentiment Analysis Project
 
 This is a simple sentiment analysis project using Python and Machine Learning.
 
