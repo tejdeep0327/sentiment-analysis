@@ -14,7 +14,7 @@ nltk.download('stopwords')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
-
+#sample data set
 data = {
     'text': [
         "I love this product, it's amazing!",
